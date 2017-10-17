@@ -1,6 +1,8 @@
 # resume-filtering(Ongoing)
 
-In this project I am going to automate the filtering process of resume to enhance the recruitment.In this project, my objective is to select an appropriate resume for a job with the help of python and nltk tools.I have used NoSql Database to store data.
+Technical Description: For this project I have used Python for writing the script and as a backend I have used NoSql(neo4j) Database to store data.
+
+In this project I am going to automate the filtering process of resume to enhance the recruitment. My objective is to select an appropriate resume for a job.The resume is selected on the basis of Qualification and Skills.
 
 Python libraries used
 
