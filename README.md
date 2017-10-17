@@ -16,5 +16,7 @@ Python libraries used
 
 5.py2neo
 
+Usage: Import all the above mentioned library in Python.then extract the keyword phrases and store it in NoSql database(neo4j).With the help of GUI we will show the selected resume. We will finally run the neoDatabse.py script to covert pdf resume to plain text and extract keyword phrases and store it in Neo4j database.
+
 
 
